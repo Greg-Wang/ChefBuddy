@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "chef-buddy-359715",
+  "private_key_id": "5b34eebe35c3e43188b61e21fdac8a91747a36cd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCYynPHji3rGWEs\n3dolHrFM1BzMiM82FfNTwR0eix4cGLmBYd13T7Ili7R6UTVyKmAYLQ1nJuIubHKS\nqiWMDj8hATxkDXND/RKZS3o/s+5WuIx/aXqsKDijrhLE20qIDttK9Z7K+LTKMZQZ\nbpaQEBCjomavCVlwW4gP07EnOH+gTA/iVNvikbUZJRG753lfeoHRU74Z8t4Tf4Q/\nEJ8BgUz5xYUDIlkv2Tov2p6cDXODe0mEkqMPzP9Z+cjY4xZjahPzpm5uLGjo9NI2\nZWJk9g92w79rpQI4234x/n+68NqQ0xMqYIGis4Tg3OuL2yWOsBadt2TQpn5/KQo9\nXGjb709pAgMBAAECggEAC/nEUOYZPcXfur1J0aKB+ZhfiH2Jpj7as1wdzOzRB5k9\ngwFZczZVK4Gze+ndE010ejifxg/DZymbYlkBN+TO+GaJJfty5yeRG2BR3OfcvMHa\ny0rIcXF2nQeyE2lvwlHNyOaPE3AidX2k0sh69yA3OagrPblxH/AgrkLkrgMM59Kn\nU8ywgZxVNGGwSGlIGgnLqU+hqR8wnNRJkHMG1qQ/BpYK0On1ORY+RIEU1WjGN1AS\nvKscnCvkTSM2Lv46Bk+6tSDXD0ILlhGG8L/Bbis/3AApYNySaFxeTqiMXz34nR25\nUA6F52izRe9HWrhYOpE1v3soKGXi2r4Lmfn+8+AELQKBgQDS6y+M3EO0ulTYPfo+\nT6TLRgLwlh/54cXBw7Bd4IVzlNPPpYGXCqwF6W81tk4mxbzALKNs76B9SwDD1a7V\n2Rbuv33hl7ahD9v5wunH54mhLOD0nf6R9NT4JzUL5lCXuHNCV31oo6JX6FfR6/d8\nbrwEphGbSwQlHohFIw0q7mdpLQKBgQC5crDTEK3FufujB3YFIoD+JGNBn1db2hFA\n+AOBhbM3SHV+pZ3C5ysrCvvri6Ys+m5onQ2pD32oC5VK0uqkXKL1UUkliIW2GbR8\nY3NSVGx3fvlDIi0VpyzArIo7lmmSficOEmZoU+WYvIneutQmxKe3epYk2HLUV/+u\nA8QTYs+srQKBgQDSBiUMQ80bqquPxG9qGs6DJ40H2sWugrX0ExOM92SLyjf8PddD\n+vl+zYrS1l0N2LryNcDqWdbazJPPbfkxsoFWbdJAkFzoFq26D+/RAmsW1mSO0MDM\nwBpNnGUDG21HFwGWnx4e00p19MN2Il0HSBDrJB7GHzXabIPPLG8RP+IzZQKBgFJF\nETDxi0XWlk3i93absgIM/oOUPtseyNy7qkKBn9n8qTNAIdbfWwVDYDNExrnZd7Wt\nRuwjVSmByf9hxnqYJisSnpKqGDeK+8jbDcQOc/gnOkmQFdQvT+lCIikBN2Cn2oeh\nnhDWd1rk+Xz4AToZsBXzqjw6UebmCyWVwhyfj2YZAoGAEBODFzUhqmVDtg05x2bN\nHcxYUnfkDFhymvXutNPlFx75kgnY0QSgv2bASyN1+GFLYSUYo0iaRQdDrZG19M1w\nnFF5B/2Uu+0rtQfqDTIpMzBs5kpVn+rCL80/Reyfo6c+88qPlIKi4GA7Pay1h9Ut\nf1c8UuTuJDJzgd8RSL3adpY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chef-buddy@chef-buddy-359715.iam.gserviceaccount.com",
+  "client_id": "108734128945559859694",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chef-buddy%40chef-buddy-359715.iam.gserviceaccount.com"
+}
